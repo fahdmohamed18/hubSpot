@@ -1,0 +1,5 @@
+# Just in case you work locally
+.DS_Store
+Thumbs.db
+node_modules/
+.env
